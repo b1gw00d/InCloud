@@ -1,0 +1,14 @@
+http://api.ym.asdf1234.xyz
+http://kel-c.gdswzn.com
+http://kel-c.gdswzn.com:444
+http://kel-c.gdswzn.com:8080
+http://kel-c.gdswzn.com:88
+http://kel-c.gdswzn.com:9100
+http://www.api.ym.asdf1234.xyz
+https://ambc.capital
+https://api.ym.asdf1234.xyz
+https://kel-c.gdswzn.com
+https://kel-c.gdswzn.com:8443
+https://test.api.qsdxb.com
+https://www.ambc.capital
+https://www.api.ym.asdf1234.xyz
